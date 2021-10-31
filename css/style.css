@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+.ha1{
+  font-size: 3.5rem;
+  font-weight: bolder;
+  color:crimson;
+  background-color: rgb(109, 144, 190);
+  border-color: blue;
+}
+.home{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(../imags/bck2.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.box{
+  color: rgb(7, 66, 22);
+}
