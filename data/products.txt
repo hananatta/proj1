@@ -1,0 +1,8 @@
+id,name,price,image_name
+1,Watch +1, 15, 1.jpg
+2,Phone A10, 150, 2.jpg
+3,Laptop 2021, 750, 3.jpg
+4,Stickers, 10, 4.jpg
+3,Bag 55, 30, 5.jpg
+3,Wirless Mouse, 15, 6.jpg
+3,T-shirt, 22 , 7.jpg
